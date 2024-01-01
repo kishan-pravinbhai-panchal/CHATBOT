@@ -7,4 +7,4 @@
 <img src="images/img 3.png">
 <img src="images/img 4.png">
 <h3>Step 3: After that i logged out and redirtect to login page and i wrote a same user name and password and i logged in  </h3>
-<img src="images/img 4.png">
+<img src="images/img 5.png">
